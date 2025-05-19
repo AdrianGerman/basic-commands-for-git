@@ -10,6 +10,7 @@ export const Content = () => {
         Esta es una app React para mostrar comandos básicos de Git con estilo
         retro pixel.
       </p>
+      <CommandGrid />
     </div>
   )
 }
