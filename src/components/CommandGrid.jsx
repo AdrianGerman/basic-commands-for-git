@@ -2,7 +2,7 @@ import { Section } from "./Section"
 
 export const CommandGrid = () => {
   return (
-    <div className="grid grid-cols-3 gap-8 w-full max-w-7xl px-6 justify-center">
+    <div className="grid grid-cols-3 gap-8 w-full max-w-7xl px-6 justify-center slide-in-top">
       <section className="flex flex-col gap-4">
         <Section
           title="Inicialización"
